@@ -1,0 +1,11 @@
+2G heap 2.3 breadth-first: Traversing 2 times took 4355 ms 2177 ms per run resulting in 140448 
+2G heap 2.3 breadth-first: Traversing 10 times took 29312 ms 2931 ms per run resulting in 140448 
+1G heap 2.3 breadth-first: Traversing 2 times took 6078 ms 3039 ms per run resulting in 140448 
+1G heap 2.3 breadth-first: Traversing 10 times took 135721 ms 13572 ms per run resulting in 0 java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+1G heap 2.3 depth-first: Traversing 2 times took 2875 ms 1437 ms per run resulting in 140448 
+1G heap 2.3 depth-first: Traversing 10 times took 7098 ms 709 ms per run resulting in 140448 
+2G heap 2.2 breadth-first: Traversing 2 times took 26433 ms 13216 ms per run resulting in 139521 
+2G heap 2.2 breadth-first: Traversing 10 times took 284212 ms 28421 ms per run resulting in 0 GC overhead limit exceeded
+3G heap 2.2 breadth-first: Traversing 2 times took 19840 ms 9920 ms per run resulting in 139521 
+3G heap 2.2 breadth-first: Traversing 10 times took 77061 ms 7706 ms per run resulting in 139521 
